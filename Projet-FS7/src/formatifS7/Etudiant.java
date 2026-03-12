@@ -10,8 +10,7 @@ public class Etudiant {
 
     /* Les constantes de la classe étudiant     */
     public static final String INFORMATIQUE = "Informatique-DEC";
-    public static final String REGION = "Quebec";
-    public static final String LETTRES = "Lettres";
+    public static final String REGION = "QC";
     public static final String SPORT = "Sport";
     public static final String DEFAULT_PROGRAMME = SPORT;
     public static final int DEFAULT_SESSION = 1;
