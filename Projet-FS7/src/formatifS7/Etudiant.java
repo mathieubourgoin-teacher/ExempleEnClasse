@@ -9,8 +9,7 @@ package formatifS7;
 public class Etudiant {
 
     /* Les constantes de la classe étudiant     */
-    public static final String INFORMATIQUE = "Informatique";
-    public static final String LETTRES = "Lettres";
+    public static final String INFORMATIQUE = "Informatique-DEC";
     public static final String SPORT = "Sport";
     public static final String DEFAULT_PROGRAMME = SPORT;
     public static final int DEFAULT_SESSION = 1;
